@@ -1,15 +1,15 @@
 ## Complex Derivative Securities
-- [a relative link]Binomial Model(1_Binomial_Model/)
+- [a relative link]Binomial Model(1_Binomial_Model)
     - Product features include one underlying, autocallable, and path dependent coupon payments
     - Using Cox-Ross-Rubinstein method
     - Sensitivity analysis on volatility(sigma)
     - Non-linearity error and convergence
-- [a relative link]Finite Difference Method(2_Finite_Difference/)
+- [a relative link]Finite Difference Method(2_Finite_Difference)
     - Product features include one underlying, autocallable, continuous barrier, and contingent coupon payments
     - Using Crank-Nicolson method
     - Sensitivity analysis on volatility(sigma)
     - Non-linearity error and convergence
-- [a relative link]Monte Carlo Simulation(3_Monte_Carlo/)
+- [a relative link]Monte Carlo Simulation(3_Monte_Carlo)
     - Product features include three underlying, quanto, autocallable, and contingent coupon payments
     - 100,000 simulations for each of 10 trials
     - Analysis on correlations of 1-, 3-, 5-year time horizons
